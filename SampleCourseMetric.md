@@ -27,20 +27,20 @@ Recommendation Rate = (no.of learners who recommend the course / Total number of
 #### Proactive Actions: 
 
 
-Based on this metric, proactive measure could include continous improvement of material and using it to promote courses as a marketing strategy. This can be more efficent by testing the content out with a smaller group before releasing it to the wider audience.
+Based on this metric, proactive measure could include continuous improvement of material and using it to promote courses as a marketing strategy. This can be more efficient by testing the content out with a smaller group before releasing it to the wider audience.
 
 
 #### Reactive Actions:
 
 
-In case of low recommendation Rates, action can be taken to address learner concerns, and help improve the overall quality and ensure the course meets learner expectations. Can also be a oppurtunity to set the a more suitable learner expectation as well.
+In case of low recommendation Rates, action can be taken to address learner concerns, and help improve the overall quality and ensure the course meets learner expectations. Can also be a opportunity to set the a more suitable learner expectation as well.
 
 ### Data collection for this metric
 
 
-Data for this metric can be collected as a post-course surveym with specific questions in the form of yes/no questions and/or a nurmeric scale. 
+Data for this metric can be collected as a post-course survey with specific questions in the form of yes/no questions or a numeric scale. 
 
 
-As aggregated information is needed, overall percentage of leaners who would recommend the course, this will be in summary form.
+As aggregated information is needed, overall percentage of learner who would recommend the course, this will be in summary form.
 
 
