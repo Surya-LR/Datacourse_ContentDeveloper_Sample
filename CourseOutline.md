@@ -102,7 +102,7 @@ At the end of the lesson, the learners will be able to:
 * Analyse case studies of B-Corps that have effectively used data  and extract insights and strategies from these success stories to inform decision-making within their own organisations.
 
 
-## Additonal Information
+## Additional Information
 
 * B corp website: https://www.bcorporation.net/en-us/,  7401 companies registered as of now.
 * B Corp certification: Why? How? and What for? A questionnaire proposal https://www.sciencedirect.com/science/article/pii/S0959652622033777
