@@ -1,6 +1,5 @@
 
-
-# Take Home Test 1: Course Outline
+Course Outline
 
 
 # Course Title: Data Literacy for B Corp™ Certified Businesses
